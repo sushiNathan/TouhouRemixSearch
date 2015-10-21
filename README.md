@@ -1,7 +1,7 @@
 # TouhouRemixSearch
 A small program that searches through my Touhou song remixes according to the original song.
 
-Since I am currently learning Java in school, I'm going to try to make this using Java.
+Since I am currently learning Java in school, I'm going to try to make this using Java. Thus, this is more of a learning experience for me.
 
 The program is supposed to:
 
